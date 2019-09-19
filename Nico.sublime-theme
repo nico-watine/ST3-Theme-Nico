@@ -3,7 +3,11 @@
 //
 // SETTINGS
 //
-    
+
+// 
+// FONTS
+// 
+
     {
         "class": "tab_label",
         "font.face": ".SFNSText-Regular",
